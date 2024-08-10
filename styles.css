@@ -1,0 +1,50 @@
+h1{
+    color:orange;
+    background:slategray;
+    text-decoration:underline;
+    text-align:center;
+    font-size:30px;
+}
+p.contact{
+    color:black;
+    text-decoration:underline;
+    font-weight:bold;
+}
+p.D{
+    font-weight:bold;
+    color:black;
+}
+p.E{
+    font-weight:bold;
+    color:black;
+}
+p.S{
+    font-weight:bold;
+    color:black;
+}
+p.C{
+    font-weight:bold;
+    color:black;
+}
+p.P{
+    font-weight:bold;
+    color:black;
+}
+h2{
+    color:rgb(238, 0, 255);
+    background:rgb(165, 191, 220);
+    text-decoration:underline;
+    text-align:center;   
+}
+h3{
+    color:black;
+    background:rgb(241, 241, 241);
+    text-decoration:underline;
+    text-align:center;   
+}
+ol{
+    boarder: 5px dash blue;
+}
+ul{
+    boarder: 5px dotted rgb(0, 255, 98);  
+}
